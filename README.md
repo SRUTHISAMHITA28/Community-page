@@ -22,6 +22,8 @@ A responsive website for the GitHub Community at GITAM University, showcasing ou
 
 1. Clone the repository
 2. Open `index.html` in your browser
+## Deployed Link
+  https://sruthisamhita28.github.io/Community-page/
 
 ## Contributing
 
